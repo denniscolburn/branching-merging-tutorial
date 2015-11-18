@@ -4,10 +4,12 @@
 *	Trunk is production version of code
 *	Release branches are changes slotted for a specific release
 *	Development branches are changes not yet slotted for a release (line-level build)
+
 ### Automated Tests
 *	Trunk tests production version of code
 *	Release branches test a specific release
 *	Development branches test changes occurring at the line level
+
 ## What does it mean to merge?
 Development lines develop code in their own branch.  They are independent from other lines’ branches from a day to day standpoint.  
 It is important, however, to ensure that one team’s changes do not impact other teams.  That is where merging comes into the picture.
