@@ -20,5 +20,7 @@ It is important, however, to ensure that one team’s changes do not impact other 
 At a high level, merging means that a line pushes its changes from their development branch to the trunk.  Other teams then pull those changes from the trunk into their development branch.
 
 ## Merging from a branch to the trunk
+On your local machine, right click on the trunk folder (i.e. the target of your merge), then navigate to TortoiseSVN...Merge.
+![TortoiseSVN...Merge](./images/image1.png)
 
 
